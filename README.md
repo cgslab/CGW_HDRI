@@ -16,6 +16,7 @@
   - THETA_Z1_HDRI_IDT_REC2020_v2.dtstyle
   - THETA_Z1_HDR2EXR.dtstyle
   - darktable_CGWHDRI_DevBatch.bat
+  - darktable_CGWHDRI_DevBatch_Subdir.bat
 - blender
   - HDRI_STmap_node_16bit.blend
   - HDRI_STmap_node_32bit.blend
@@ -33,9 +34,6 @@
   - ColorChart/target_ricd_macbeth_xrite_ACES(cat02).exr
   - ColorChart/target_ricd_macbeth_xrite_ACEScg(cat02).exr
   - ColorChart/target_ricd_macbeth_xrite_lin-srgb(cat02).exr
-- bat
-  - darktable_CGWHDRI_DevBatch_Subdir.bat
-  - darktable_CGWHDRI_DevBatch.bat
 
 これらのファイルはCC BY-SA 4.0で提供されています。
 
