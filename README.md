@@ -29,7 +29,13 @@
   - Nuke_HDRI_Merge/data/STMapPTGui_Mask.exr
   - Nuke_HDRI_Merge/data/UVMap.exr
   - Nuke_HDRI_Merge/data/XH2_Plate_ACEScg.exr
-
+- ColorChart
+  - ColorChart/target_ricd_macbeth_xrite_ACES(cat02).exr
+  - ColorChart/target_ricd_macbeth_xrite_ACEScg(cat02).exr
+  - ColorChart/target_ricd_macbeth_xrite_lin-srgb(cat02).exr
+- bat
+  - darktable_CGWHDRI_DevBatch_Subdir.bat
+  - darktable_CGWHDRI_DevBatch.bat
 これらのファイルはCC BY-SA 4.0で提供されています。
 
 https://creativecommons.org/licenses/by-sa/4.0/
