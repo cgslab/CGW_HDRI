@@ -36,6 +36,7 @@
 - bat
   - darktable_CGWHDRI_DevBatch_Subdir.bat
   - darktable_CGWHDRI_DevBatch.bat
+
 これらのファイルはCC BY-SA 4.0で提供されています。
 
 https://creativecommons.org/licenses/by-sa/4.0/
