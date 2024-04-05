@@ -49,6 +49,8 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [第4回：Nukeを用いた高品質フロー向け配布ファイル](https://github.com/cgslab/CGW_TEHTAZ1_VFXHDRIHandbook/releases/tag/CGW_HDRI_vol4)
 
+[第6回：第6回：実践！HDRI撮影から合成まで](https://github.com/cgslab/CGW_TEHTAZ1_VFXHDRIHandbook/releases/tag/CGW_HDRI_vol6)
+
 ## 再配布ファイルについて
 
 本リポジトリで提供するファイルには一部再配布ファイルが含まれています。
