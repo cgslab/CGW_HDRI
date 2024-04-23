@@ -20,6 +20,7 @@
 - blender
   - HDRI_STmap_node_16bit.blend
   - HDRI_STmap_node_32bit.blend
+  - Mult_HDRI_Projection.blend
 - PTGui
   - ThetaZ1.pts
 - Nuke関連
@@ -49,7 +50,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 [第4回：Nukeを用いた高品質フロー向け配布ファイル](https://github.com/cgslab/CGW_TEHTAZ1_VFXHDRIHandbook/releases/tag/CGW_HDRI_vol4)
 
-[第6回：第6回：実践！HDRI撮影から合成まで](https://github.com/cgslab/CGW_TEHTAZ1_VFXHDRIHandbook/releases/tag/CGW_HDRI_vol6)
+[第6回：実践！HDRI撮影から合成まで](https://github.com/cgslab/CGW_TEHTAZ1_VFXHDRIHandbook/releases/tag/CGW_HDRI_vol6)
+
+[第7回：第7回：HDRI TIPS集](https://github.com/cgslab/CGW_TEHTAZ1_VFXHDRIHandbook/releases/tag/CGW_HDRIvol7)
 
 ## 再配布ファイルについて
 
